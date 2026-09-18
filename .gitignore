@@ -1,0 +1,37 @@
+# dependencies
+node_modules/
+.pnpm-store/
+
+# builds
+dist/
+build/
+coverage/
+playwright-report/
+test-results/
+
+# env/secrets
+.env
+.env.*
+!.env.example
+
+# local tooling
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# caches
+.vite/
+.eslintcache
+*.tsbuildinfo
+
+# local Supabase
+supabase/.temp/

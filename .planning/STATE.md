@@ -9,12 +9,13 @@ Core value: group music that feels fair, social, explainable, and adaptive.
 - Milestone: MVP / Hackathon Demo
 - Phase: 01 — Foundation
 - Plan: 01
-- Status: Ready to implement
-- Progress: 0/10 phases
+- Status: Foundation shell implemented; verification pending local Node runtime
+- Progress: 1/10 phases
 
 ## Last activity
 
 2026-09-18 — Initial GSD-style project planning pack created.
+2026-09-18 — Implemented Phase 01 foundation shell and first Live Room product surface.
 
 ## Key decisions
 
@@ -42,7 +43,7 @@ None for Phase 01.
 
 ## Next action
 
-Execute `.planning/phases/01-foundation/01-PLAN.md`.
+Install/use a Node runtime, run `npm install`, then execute the Phase 01 verification commands and continue into Phase 02 onboarding.
 
 ## Session continuity
 
